@@ -1,7 +1,9 @@
 # Project Title
-
+- Creating a PHP Slot Game
+- Name: Elizabeth Sherwood
+- Due: Monday, 9/8/2025 at 8AM
 ## Description
-Slots Program
+- Slots Program: Develop a simple slot game using PHP that incorporates arrays, the match() expression, loops, and logical conditions.
 
 ## Requirements
 - PHP installed (version 8)
@@ -18,5 +20,6 @@ Slots Program
 
 ## Screenshot of homepage
 ![Slots Output](slotsOutput.png)
+
 ## Markdown Cheat Sheet
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/)

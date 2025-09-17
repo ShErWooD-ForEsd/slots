@@ -2,6 +2,8 @@
 - Creating a PHP Slot Game
 - Name: Elizabeth Sherwood
 - Due: Monday, 9/8/2025 at 8AM
+- Finally Finished: 
+
 ## Description
 - Slots Program: Develop a simple slot game using PHP that incorporates arrays, the match() expression, loops, and logical conditions.
 
@@ -16,10 +18,8 @@
 3. Start the server.
 
 ## Repo
-[markleyclassroom](https://github.com/MarkleyClassroom/phplessonChapter2)
+[ShErWooD-ForEsd](https://github.com/ShErWooD-ForEsd/slots)
 
 ## Screenshot of homepage
-![Slots Output](slotsOutput.png)
-
-## Markdown Cheat Sheet
-[cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+![Slots Output Example](img/slotsOutput.png)
+![Slots Output] (img/)

@@ -2,7 +2,7 @@
 - Creating a PHP Slot Game
 - Name: Elizabeth Sherwood
 - Due: Monday, 9/8/2025 at 8AM
-- Finally Finished: 
+- Finally Finished Correctly: 9/17/2025
 
 ## Description
 - Slots Program: Develop a simple slot game using PHP that incorporates arrays, the match() expression, loops, and logical conditions.
@@ -21,5 +21,4 @@
 [ShErWooD-ForEsd](https://github.com/ShErWooD-ForEsd/slots)
 
 ## Screenshot of homepage
-![Slots Output Example](img/slotsOutput.png)
-![Slots Output] (img/)
+![My Slots Output](img/myOutput.jpeg)
